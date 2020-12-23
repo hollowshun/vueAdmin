@@ -1,7 +1,7 @@
 # y
 ## 预览地址
 由于测试接口限制，建议自行clone 本地运行测试
-https://wh-kappa-six.now.sh/vueAdmin/index.html
+https://wh-kappa-six.now.sh/vueAdmin/index.html#/First/page2
 
 > A Vue.js project
 
